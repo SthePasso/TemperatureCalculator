@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MainTest {
     
-    public static final double VALOR_ESPERADO = 10.0;
+    public static final double VALOR_ESPERADO = 11.0;
 
     @Test
     public void farineitToCelcius(){
